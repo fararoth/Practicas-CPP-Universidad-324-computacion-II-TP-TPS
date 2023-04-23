@@ -28,3 +28,20 @@ en (b), calcular el tráfico que circula por cada enlace.
 
 d) Obtener el número medio de enlaces que atraviesa un paquete gen ́erico de la
 red.
+
+
+## Programa 2 - Ordenamiento con método burbuja
+
+
+### Se solicita:
+
+En una empresa de repuestos se tiene la información almacenada en arreglos. Haga un
+programa en C++ con arreglos, y ordenar los elementos del arreglo mediante el Método
+burbuja.
+
+## Programa 3 - Búsqueda lineal
+
+### Se solicita: 
+
+Realizar un programa en C++, que permita ingresar n cantidad de elementos en un arreglo y
+hacer una búsqueda de elementos mediante el método secuencial.
