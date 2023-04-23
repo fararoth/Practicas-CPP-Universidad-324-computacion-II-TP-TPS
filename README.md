@@ -4,7 +4,7 @@ Algoritmos para la realización del Trabajo Práctico de la materia Computación
 
 Se solicitan 3 programas, los enumeraré aquí y dejaré los 3 archivos enumerados. 
 
-##Programa 1 - Topología de una red
+## Programa 1 - Topología de una red
 
 
 En la figura 1 se muestra la topología de una red de conmutación de paquetes y la distancia física de los enlaces expresada en Km.
@@ -12,7 +12,7 @@ En la figura 1 se muestra la topología de una red de conmutación de paquetes y
 ![324_TP_27646286_2023_1_LUIS_FARIAS pdf y 7 páginas más - Perfil 1 Microsoft Edge](https://user-images.githubusercontent.com/60280254/233851538-87b69e79-da9c-488b-bbc0-c51be33e0d2f.jpg)
 
 
-###Se solicita:
+### Se solicita:
 
 a) Elabore un programa en C++ utilizando el algoritmo de Floyd-Warshall
 para encontrar las rutas que proporcionan el camino de menor longitud entre
