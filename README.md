@@ -10,7 +10,7 @@ tenían las evaluaciones.
 ## Para el Trabajo Practico (TP)
 Se solicitan 3 programas, los enumeraré aquí y dejaré los 3 archivos enumerados. 
 
-## TP - Programa 1 - Topología de una red
+### TP - Programa 1 - Topología de una red
 
 
 En la figura 1 se muestra la topología de una red de conmutación de paquetes y la distancia física de los enlaces expresada en Km.
@@ -18,7 +18,7 @@ En la figura 1 se muestra la topología de una red de conmutación de paquetes y
 ![324_TP_27646286_2023_1_LUIS_FARIAS pdf y 7 páginas más - Perfil 1 Microsoft Edge](https://user-images.githubusercontent.com/60280254/233851538-87b69e79-da9c-488b-bbc0-c51be33e0d2f.jpg)
 
 
-### Se solicita:
+#### Se solicita:
 
 a) Elabore un programa en C++ utilizando el algoritmo de Floyd-Warshall
 para encontrar las rutas que proporcionan el camino de menor longitud entre
@@ -36,18 +36,18 @@ d) Obtener el número medio de enlaces que atraviesa un paquete gen ́erico de l
 red.
 
 
-##  TP - Programa 2 - Ordenamiento con método burbuja
+###  TP - Programa 2 - Ordenamiento con método burbuja
 
 
-### Se solicita:
+#### Se solicita:
 
 En una empresa de repuestos se tiene la información almacenada en arreglos. Haga un
 programa en C++ con arreglos, y ordenar los elementos del arreglo mediante el Método
 burbuja.
 
-##  TP - Programa 3 - Búsqueda lineal
+###  TP - Programa 3 - Búsqueda lineal
 
-### Se solicita: 
+#### Se solicita: 
 
 Realizar un programa en C++, que permita ingresar n cantidad de elementos en un arreglo y
 hacer una búsqueda de elementos mediante el método secuencial.
@@ -55,14 +55,14 @@ hacer una búsqueda de elementos mediante el método secuencial.
 
 ## Para el examen (TPS)
 
-## TPS - Programa 1 - Suma de matrices
+### TPS - Programa 1 - Suma de matrices
 
 Implemente haciendo uso del TAD la suma de 2 matrices que tengan igual número de
 filas y de columnas. La suma se realiza sumando elemento a elemento cada número
 entero de la matriz A con el correspondiente número entero de la matriz B, , que
 tenga igual número de fila e igual número de columna.
 
-## TPS - Programa 2 - Lista lineal
+### TPS - Programa 2 - Lista lineal
 
 Implemente una función en C++ que cree y retorne una lista lineal simplemente enlazada,
 ordenada con todos los elementos mayores que el valor a comparar, como se muestra
@@ -72,7 +72,7 @@ en la figura 1.
 
 
 
-## TPS - Programa 3 - Pila a cola
+### TPS - Programa 3 - Pila a cola
 
 Se tiene un conjunto de datos almacenados en una estructura de pila. Se requiere extraer
 información relevante de la pila para almacenarla en una cola.
@@ -90,7 +90,7 @@ elementos restantes simplemente serán eliminados de la pila.
 b) Codifique previamente en C++ las estructuras de datos requeridas. 
 Emplee manejo dinámico de memoria.
 
-## TPS - Programa 4 - Arbol binario
+### TPS - Programa 4 - Arbol binario
 
 Dado un árbol binario cuyos elementos son números enteros, se requiere determinar el
 número de nodos que posee. Para ello realice lo siguiente:
