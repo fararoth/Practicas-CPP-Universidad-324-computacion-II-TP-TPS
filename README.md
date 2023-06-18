@@ -1,10 +1,10 @@
-# 324-TP-20231
-Algoritmos para la realización del Trabajo Práctico de la materia Computación II (324) 
+# Programas para el Trabajo Práctico y el examen.
+Algoritmos para la realización del Trabajo Práctico y el examen de la materia Computación II (324) 
 
-
+## Para el Trabajo Practico (TP)
 Se solicitan 3 programas, los enumeraré aquí y dejaré los 3 archivos enumerados. 
 
-## Programa 1 - Topología de una red
+## TP - Programa 1 - Topología de una red
 
 
 En la figura 1 se muestra la topología de una red de conmutación de paquetes y la distancia física de los enlaces expresada en Km.
@@ -30,7 +30,7 @@ d) Obtener el número medio de enlaces que atraviesa un paquete gen ́erico de l
 red.
 
 
-## Programa 2 - Ordenamiento con método burbuja
+##  TP - Programa 2 - Ordenamiento con método burbuja
 
 
 ### Se solicita:
@@ -39,9 +39,56 @@ En una empresa de repuestos se tiene la información almacenada en arreglos. Hag
 programa en C++ con arreglos, y ordenar los elementos del arreglo mediante el Método
 burbuja.
 
-## Programa 3 - Búsqueda lineal
+##  TP - Programa 3 - Búsqueda lineal
 
 ### Se solicita: 
 
 Realizar un programa en C++, que permita ingresar n cantidad de elementos en un arreglo y
 hacer una búsqueda de elementos mediante el método secuencial.
+
+
+## Para el examen (TPS)
+
+## TPS - Programa 1 - Suma de matrices
+
+Implemente haciendo uso del TAD la suma de 2 matrices que tengan igual número de
+filas y de columnas. La suma se realiza sumando elemento a elemento cada número
+entero de la matriz A con el correspondiente número entero de la matriz B, , que
+tenga igual número de fila e igual número de columna.
+
+## TPS - Programa 2 - Lista lineal
+
+Implemente una función en C++ que cree y retorne una lista lineal simplemente enlazada,
+ordenada con todos los elementos mayores que el valor a comparar, como se muestra
+en la figura 1.
+
+![TSP_324_2023-1 pdf - Google Chrome](https://github.com/fararoth/Practicas-CPP-Universidad-324-computacion-II-TP-TPS/assets/60280254/cb9b6c3c-687b-404d-a13e-5c4d4defc3cc)
+
+
+
+## TPS - Programa 3 - Pila a cola
+
+Se tiene un conjunto de datos almacenados en una estructura de pila. Se requiere extraer
+información relevante de la pila para almacenarla en una cola.
+
+Sobre la base de la situación presentada, realice lo siguiente:
+a) Dado que se tiene la siguiente información en cada nodo de la pila:
+    Código (5 caracteres)
+    Prioridad (un número entero),
+
+elabore en C++ una función llamada PasarPilaACola, que extraiga continuamente cada
+uno de los elementos de la pila y si se trata de un elemento con prioridad 1 ó 2 lo
+insertará en una cola, en donde el primero que llega será el primero en atenderse. Los
+elementos restantes simplemente serán eliminados de la pila.
+
+b) Codifique previamente en C++ las estructuras de datos requeridas. 
+Emplee manejo dinámico de memoria.
+
+## TPS - Programa 4 - Arbol binario
+
+Dado un árbol binario cuyos elementos son números enteros, se requiere determinar el
+número de nodos que posee. Para ello realice lo siguiente:
+Codifique en lenguaje C++ una función recursiva denominada Contar, la cual cuenta el
+número de nodos que tiene el árbol binario. Codifique la estructura de datos a emplear en
+C++. Emplee manejo dinámico de memoria.
+
