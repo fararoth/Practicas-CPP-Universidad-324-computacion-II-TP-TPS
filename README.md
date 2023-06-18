@@ -1,5 +1,11 @@
-# Programas para el Trabajo Práctico y el examen.
-Algoritmos para la realización del Trabajo Práctico y el examen de la materia Computación II (324) 
+# Algoritmos para la realización del Trabajo Práctico (TP) y el examen (TPS) de la materia Computación II (324) 
+A continuación expongo los *enunciados* del TP y del TPS de esta materia en el semestre 2023-1
+en la Universidad Nacional Abierta (UNA)
+Este repositorio se le agregó el código después que el semestre culminó por obvias razones puede 
+usted comprobarlo en los commits.
+
+No adjunto los pdf porque me parece más práctico usar el readme.md para mostrar los enunciados que 
+tenían las evaluaciones.
 
 ## Para el Trabajo Practico (TP)
 Se solicitan 3 programas, los enumeraré aquí y dejaré los 3 archivos enumerados. 
