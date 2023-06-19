@@ -9,7 +9,7 @@ tenían las evaluaciones.
 
 ## Para el Trabajo Practico (TP)
 Se solicitan 3 programas, los enumeraré aquí y dejaré los 3 archivos enumerados. 
-
+<br>
 ### TP - Programa 1 - Topología de una red
 
 
@@ -35,7 +35,7 @@ en (b), calcular el tráfico que circula por cada enlace.
 d) Obtener el número medio de enlaces que atraviesa un paquete gen ́erico de la
 red.
 
-
+<br>
 ###  TP - Programa 2 - Ordenamiento con método burbuja
 
 
@@ -48,7 +48,7 @@ burbuja.
 ###  TP - Programa 3 - Búsqueda lineal
 
 #### Se solicita: 
-
+<br>
 Realizar un programa en C++, que permita ingresar n cantidad de elementos en un arreglo y
 hacer una búsqueda de elementos mediante el método secuencial.
 
@@ -61,7 +61,7 @@ Implemente haciendo uso del TAD la suma de 2 matrices que tengan igual número d
 filas y de columnas. La suma se realiza sumando elemento a elemento cada número
 entero de la matriz A con el correspondiente número entero de la matriz B, , que
 tenga igual número de fila e igual número de columna.
-
+<br>
 ### TPS - Programa 2 - Lista lineal
 
 Implemente una función en C++ que cree y retorne una lista lineal simplemente enlazada,
@@ -70,7 +70,7 @@ en la figura 1.
 
 ![TSP_324_2023-1 pdf - Google Chrome](https://github.com/fararoth/Practicas-CPP-Universidad-324-computacion-II-TP-TPS/assets/60280254/cb9b6c3c-687b-404d-a13e-5c4d4defc3cc)
 
-
+<br>
 
 ### TPS - Programa 3 - Pila a cola
 
@@ -89,7 +89,7 @@ elementos restantes simplemente serán eliminados de la pila.
 
 b) Codifique previamente en C++ las estructuras de datos requeridas. 
 Emplee manejo dinámico de memoria.
-
+<br>
 ### TPS - Programa 4 - Arbol binario
 
 Dado un árbol binario cuyos elementos son números enteros, se requiere determinar el
