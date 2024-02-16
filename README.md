@@ -36,6 +36,7 @@ d) Obtener el número medio de enlaces que atraviesa un paquete gen ́erico de l
 red.
 
 <br>
+
 ###  TP - Programa 2 - Ordenamiento con método burbuja
 
 
